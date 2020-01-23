@@ -1,7 +1,7 @@
 # NG Grace Design System
-Hi there, NG Grace Design System is open souce UI-KIT for Angular lovers based on Bootcatch Grace Theme thanks :)
+NG Grace Design System is open souce UI-KIT for Angular lovers based on Bootcatch Grace Theme thanks :)
 
-[![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
+[![NPM](https://img.shields.io/npm/v/ng-grace-design-system.svg)](https://www.npmjs.com/package/ng-grace-design-system)  [![NPM](https://img.shields.io/npm/dt/ng-grace-design-system.svg)](https://www.npmjs.com/package/ng-grace-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -18,15 +18,13 @@ Hi there, NG Grace Design System is open souce UI-KIT for Angular lovers based o
 
 ## Quick Start
 ```
+// Install through NPM
+$ npm i ng-grace-design-system --save
+
+OR
 //Clone the repo.
 
 $ git clone https://github.com/ajaymarathe/ng-grace-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ ng serve
 ```
 
 ## Usage

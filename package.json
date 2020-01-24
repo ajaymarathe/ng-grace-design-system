@@ -1,6 +1,6 @@
 {
   "name": "ng-grace-design-system",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "NG Grace Design System is open souce UI-KIT for Angular lovers based on Bootcatch Grace Theme thanks :)",
   "main": "index.js",
   "scripts": {
